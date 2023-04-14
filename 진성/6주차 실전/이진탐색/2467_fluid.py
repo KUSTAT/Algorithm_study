@@ -33,11 +33,6 @@ def solve():
                         print(duo[0], duo[1])
                         return
         print(duo[0], duo[1])
-    
-
-            
-
-
 
 solve()
 # 4
